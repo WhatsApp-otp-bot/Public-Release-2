@@ -1,0 +1,7 @@
+# Core Python Standard Library modules are utilized (re, urllib.parse, typing).
+# This file specifies environment and testing dependencies.
+
+pytest>=7.0.0
+black>=23.0.0
+flake8>=6.0.0
+requests>=2.31.0
