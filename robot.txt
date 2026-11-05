@@ -1,0 +1,6 @@
+# robots.txt for WhatsApp OTP Security Suite
+User-agent: *
+Allow: /
+
+# Sitemap declaration for faster indexing
+Sitemap: https://github.com/WhatsApp-otp-bot/Public-Release-2.git/sitemap.xml
